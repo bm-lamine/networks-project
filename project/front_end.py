@@ -9,7 +9,6 @@ import matplotlib.patches as patches
 import numpy as np
 from matplotlib.patches import RegularPolygon
 import back_end as be
-import json
 
 def create_hexagon_grid(R, grid_size=7):
     """
