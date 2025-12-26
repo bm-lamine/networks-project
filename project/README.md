@@ -243,8 +243,8 @@ Ce projet a permis de développer une application complète de planification rad
 
 - Rappaport, T. S. (2002). _Wireless Communications: Principles and Practice_
 - Goldsmith, A. (2005). _Wireless Communications_
-- Cours STIC - Master 1
 - Documentation Python : matplotlib, numpy
+- Cours STIC - Master 1
 
 ---
 
@@ -252,7 +252,6 @@ Ce projet a permis de développer une application complète de planification rad
 
 - back_end.py
 - front_end.py
-- demo.py
 
 **Annexe B : Fichiers de configuration**
 
