@@ -4,7 +4,7 @@
   "P_sens_dBm": -100,
   "N_f": 124,
   "f_port_MHz": 900,
-  "N": 7,
+  "N": 3,
   "SIR_min_dB": 17,
   "Dst_ab": 20,
   "T_act": 0.1,
