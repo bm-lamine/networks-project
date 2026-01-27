@@ -202,11 +202,10 @@ Active Users ≤ Channels per Cell
 
 | N   | S/I (dB)  | Channels | Quality   | Capacity | Verdict            |
 | --- | --------- | -------- | --------- | -------- | ------------------ |
-| 3   | 14.25     | 41       | Poor      | Good     | ✗ Bad Quality      |
-| 4   | 16.77     | 31       | Poor      | OK       | ✗ Below 17 dB      |
-| 7   | **19.89** | **17**   | **Good**  | **OK**   | **✓ BEST**         |
-| 9   | 21.31     | 13       | Excellent | Low      | ✗ Low Capacity     |
-| 12  | 22.98     | 10       | Excellent | Very Low | ✗ Too Few Channels |
+| 3   | 8.92     | 41       | Poor      | Good     | ✗ Bad Quality      |
+| 4   | 11.10     | 31       | Poor      | OK       | ✗ Below 17 dB      |
+| 7   | **15.36** | **17**   | **Good**  | **OK**   | **✓ BEST** |
+| 12  | 19.45    | 10       | Excellent | Very Low | ✗ Too Few Channels |
 
 ### 9. Environment Impact
 
